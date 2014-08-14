@@ -17,6 +17,15 @@ LICENSE
 
 This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
 
+使用方法
+------------------
+
+FAT32Reader.pmをダウンロードして適当において
+
+    use FAT32Reader;
+
+普段あまり役に立たないコードなのでモジュールにするのは面倒だけどいつかやるかもしれない。
+
 SYNOPSIS
 ------------------
 
