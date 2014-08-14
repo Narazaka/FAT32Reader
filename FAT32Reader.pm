@@ -6,6 +6,7 @@ use 5.006; # not checked
 package FAT32Reader;
 use Encode;
 use File::Spec::Functions qw/splitpath splitdir/;
+our $VERSION = 0.01;
 
 sub new{
 	my $package = shift;
